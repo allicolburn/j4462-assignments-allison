@@ -1,0 +1,15 @@
+I went to Five-Thirty-Eight’s repository and found a project about gun deaths. I couldn’t access the whole data set the website is working with, but I was able to see a modified set that appears to be for an interactive they’re making.
+
+I chose this because I think gun violence is a very serious issue. It’s really important for people to see the data on it to understand the scope of the issue.
+
+The site has grouped the number of guns deaths by age, race, gender, and intent. (ex. suicide, homicide, etc.) From what I can tell, the user can search using multiple factors or search by one factor. So I could search for gun deaths of Hispanic women aged 15-34 or just gun deaths of all Hispanic people in the U.S. It also shows the rate of gun deaths for each group/factor. The repository also includes the coding for the interactive.
+
+It seems like it’s a useful tool to see how different groups are affected differently by gun violence.
+
+Questions:
+
+1. Why did you decide to organize the data by race, age, gender, and intent?
+
+2. How long did it take to write the code for the interactive?
+
+3. What glitches or issues that came up during the project? How did you solve them?
