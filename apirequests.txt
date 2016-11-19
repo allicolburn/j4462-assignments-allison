@@ -1,0 +1,14 @@
+1.
+
+url = 'http://openstates.org/api/v1/legislators/?state=mo&active=true'
+
+
+
+2. 
+
+url = 'http://openstates.org/api/v1/bills/?state=mo&chamber=upper&search_window=session:2016'
+
+
+3. 
+
+url = 'http://openstates.org/api/v1/bills/?state=mo&chamber=upper&search_window=session:2016&subjects=environmental'
